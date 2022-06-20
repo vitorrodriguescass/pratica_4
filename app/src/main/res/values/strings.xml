@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pratica4</string>
+    <string-array name="lst_spinner">
+        <item>Pizza de Calabresa</item>
+        <item>Pizza de Quatro Queijos</item>
+        <item>Pizza de Portuguesa</item>
+    </string-array>
+</resources>
